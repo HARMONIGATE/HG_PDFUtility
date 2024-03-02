@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">createPDF</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">Ly8gcGlwZWxpbmUNCklEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vy
+c29yKCk7DQoJU3RyaW5nCWh0bWxDb250ZW50ID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxp
+bmVDdXJzb3IsICJodG1sQ29udGVudCIgKTsNCglTdHJpbmcJcGF0aCA9IElEYXRhVXRpbC5nZXRT
+dHJpbmcoIHBpcGVsaW5lQ3Vyc29yLCAicGF0aCIgKTsNCglTdHJpbmcJZmlsZU5hbWUgPSBJRGF0
+YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGluZUN1cnNvciwgImZpbGVOYW1lIiApOw0KcGlwZWxpbmVD
+dXJzb3IuZGVzdHJveSgpOw0KU3RyaW5nIG1lc3NhZ2U9Y29udmVydFRvUERGKGh0bWxDb250ZW50
+LHBhdGgrIi8iK2ZpbGVOYW1lKTsNCg0KLy8gcGlwZWxpbmUNCi8vIHBpcGVsaW5lDQpJRGF0YUN1
+cnNvciBwaXBlbGluZUN1cnNvcl8xID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7DQpJRGF0YVV0aWwu
+cHV0KCBwaXBlbGluZUN1cnNvcl8xLCAibWVzc2FnZSIsIG1lc3NhZ2UgKTsNCnBpcGVsaW5lQ3Vy
+c29yXzEuZGVzdHJveSgpOw==</value>
+</Values>
